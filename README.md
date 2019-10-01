@@ -16,7 +16,7 @@ The user must first select an option among those available in the main menu. For
 ![his6](https://user-images.githubusercontent.com/55396033/65990471-7f856800-e440-11e9-88c1-e5f4b073e02d.png)
 #### MODIFY PATIENT DETAILS
 ![his7](https://user-images.githubusercontent.com/55396033/65990482-84e2b280-e440-11e9-9c82-a3250cf1f62e.PNG)
-#### INSERT URGENT CASE
+#### INSERT URGENT CASE (Appointment list after inserting a record of patient Mark Li)
 ![his8](https://user-images.githubusercontent.com/55396033/65990487-88763980-e440-11e9-887f-7aa038f1aa6b.PNG)
 #### DELETE RECORD
 ![HIS9](https://user-images.githubusercontent.com/55396033/65990494-8b712a00-e440-11e9-956f-0cc784e0c08c.PNG)
