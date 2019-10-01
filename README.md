@@ -7,7 +7,7 @@ The user must first select an option among those available in the main menu. For
 #### MAIN MENU
 ![tempsnip](https://user-images.githubusercontent.com/55396033/65990439-6f6d8880-e440-11e9-9439-9d644ea440b1.png)
 #### ENTER PATIENT DETAILS
-![his2](https://user-images.githubusercontent.com/55396033/65990447-73010f80-e440-11e9-8f18-8e442ffe013c.png)
+![new](https://user-images.githubusercontent.com/55396033/65991573-6c739780-e442-11e9-89ea-df25517bbce9.PNG)
 #### ADD NEW RECORD
 ![his4](https://user-images.githubusercontent.com/55396033/65990456-78f6f080-e440-11e9-8994-45e268b3f6a0.PNG)
 #### VIEW APPOINTMENT LIST
